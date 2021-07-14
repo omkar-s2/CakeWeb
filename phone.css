@@ -28,7 +28,7 @@
 /* services section  */
 #services{
     flex-direction: column;
-
+    margin: 13px;
 }
 #services .box{
     padding: 14px;
