@@ -26,11 +26,11 @@
 }
 
 /* services section  */
-#Services{
+#services{
     flex-direction: column;
 
 }
-#Services .box{
+#services .box{
     padding: 14px;
     margin: 2px 0px;
     margin-bottom: 20px;
